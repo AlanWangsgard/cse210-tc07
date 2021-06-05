@@ -54,7 +54,7 @@ class Director:
         """
         letter = self._input_service.get_key()
         if letter == "clear":
-            if self._score._points >= 50:
+            if self._score._points >= 100:
                 print(f"""\n\n\n\n\n\n\n\n\n\n\n
                                    .''.       
        .''.      .        *''*    :_\/_:     . 
