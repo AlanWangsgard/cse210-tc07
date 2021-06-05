@@ -1,1 +1,2 @@
-# cse210-tc07
+# cse210-tc06
+This is the game Speed, written in Python.
